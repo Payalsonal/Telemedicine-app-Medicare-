@@ -1,1 +1,2 @@
-# Telemedicine-app-Medicare-
+# Telemedicine-website-Medicare-
+Working on this hands-on project from scratch which involves front-end as well as back-end programming. This involves extensive coding in front-end from creating webpage to activating links and generating API keys to activate payment portal as well. However, for payment portal, the link will be activated later under the guidance of mentor and once we create the website fully functional. 
